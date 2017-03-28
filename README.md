@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/cU6s6a9.jpg"/>
+
 
 # Welcome to HerbPlugins Repository
 
